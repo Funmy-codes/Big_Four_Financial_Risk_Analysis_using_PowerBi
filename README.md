@@ -1,4 +1,5 @@
 Big Four Financial Analysis - Power BI Dashboard
+
 📊 Overview
 This Power BI dashboard provides an analytical view of the financial and auditing performance of the Big Four accounting firms: Deloitte, PwC, Ernst & Young, and KPMG. It includes key metrics such as audit effectiveness, fraud cases detected, employee workload, client satisfaction, total revenue impact, and high-risk cases across various industries.
 

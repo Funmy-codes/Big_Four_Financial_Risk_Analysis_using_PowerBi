@@ -6,25 +6,25 @@ This Power BI dashboard provides an analytical view of the financial and auditin
 
 🔍 Features
 
-Audit Effectiveness Analysis: Compares firms based on their audit scores.
+   . Audit Effectiveness Analysis: Compares firms based on their audit scores.
 
-Fraud Cases Detection: Evaluates the effectiveness of fraud detection across firms.
+   . Fraud Cases Detection: Evaluates the effectiveness of fraud detection across firms.
 
-Employee Workload: Assesses employee workload distribution among firms and industries.
+   . Employee Workload: Assesses employee workload distribution among firms and industries.
 
-Client Satisfaction Score: Measures customer satisfaction levels.
+   . Client Satisfaction Score: Measures customer satisfaction levels.
 
-Revenue & Engagement Impact: Analyzes the impact of total audit engagements on revenue.
+   . Revenue & Engagement Impact: Analyzes the impact of total audit engagements on revenue.
 
-High-Risk Cases by Industry: Identifies industries most affected by high-risk audits.
+   . High-Risk Cases by Industry: Identifies industries most affected by high-risk audits.
 
 📂 Files Included
 
-Power BI Report (.pbix) 
+   . Power BI Report (.pbix) 
 
-PDF Report Summary (Big Four.pdf)
+   . PDF Report Summary (Big Four.pdf)
 
-big4_financial_risk_compliance (csv)
+   . big4_financial_risk_compliance (csv)
 
 🚀 How to Use
 
@@ -43,3 +43,9 @@ Deloitte and PwC lead in audit effectiveness and revenue impact.
 Employee workload varies significantly across firms and industries.
 
 📌Feel free to contribute or provide feedback!
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+Developed with ❤️ By Oluwaseunfunmi using Power BI.
